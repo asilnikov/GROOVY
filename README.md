@@ -1,0 +1,2 @@
+# GROOVY
+trening groovy
